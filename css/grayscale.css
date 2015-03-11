@@ -186,9 +186,9 @@ font-size:20px;
 }
  .cr
 {
-border-radius:50% 50% 50% 50%;
-width:180px;
-height:225px;
+border-radius:60% 50% 60% 50%;
+width:200px;
+height:270px;
 }
 @media(min-width:768px) {
     .intro {
